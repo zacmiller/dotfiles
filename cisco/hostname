@@ -1,3 +1,8 @@
+line console 0
 logging synchronous
+line vty 0 15
+logging synchronous
+exit
 no ip domain-lookup
+exit
 hostname 
