@@ -1,0 +1,4 @@
+logging synchronous
+no ip domain-lookup
+end
+hostname 
