@@ -4,8 +4,10 @@ logging synchronous
 line vty 0 15
 logging synchronous
 exit
+
 enable
 no ip domain-lookup
 exit
+
 enable
 hostname 
