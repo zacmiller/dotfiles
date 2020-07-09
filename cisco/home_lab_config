@@ -10,4 +10,5 @@ no ip domain-lookup
 end
 
 enable
+conf t
 hostname 
