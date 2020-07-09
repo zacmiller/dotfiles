@@ -6,7 +6,6 @@ line vty 0 15
 logging synchronous
 exit
 
-conf t
 no ip domain-lookup
 end
 
